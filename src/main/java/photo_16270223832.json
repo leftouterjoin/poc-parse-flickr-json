@@ -1,0 +1,103 @@
+{
+	"id": "99999999999",
+	"name": "99990113-210606-3",
+	"description": "",
+	"count_views": "4",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "9999-01-13 21:06:06",
+	"count_tags": "2",
+	"count_notes": "0",
+	"date_imported": "9999-01-13 04:23:00",
+	"photopage": "https://www.flickr.com/photos/dummy/99999999999/",
+	"original": "http://farm9.staticflickr.com/8594/99999999999_fe9d2da699_o.jpg",
+	"license": null,
+	"geo": {
+		"latitude": "99587200",
+		"longitude": "999706146",
+		"accuracy": "16"
+	},
+	"exif": {
+		"Orientation": "Horizontal (normal)",
+		"XResolution": "72 dpi",
+		"YResolution": "72 dpi",
+		"Software": "8.1.2",
+		"ModifyDate": "9999:01:13 21:06:06",
+		"YCbCrPositioning": "Centered",
+		"ExposureTime": "0.05 sec (1/20)",
+		"FNumber": "f/2.2",
+		"ExposureProgram": "Program AE",
+		"ISO": "250",
+		"DateTimeOriginal": "9999:01:13 21:06:06",
+		"CreateDate": "9999:01:13 21:06:06",
+		"BrightnessValue": "1.01725316",
+		"ExposureCompensation": "0 EV",
+		"MeteringMode": "Spot",
+		"Flash": "Off, Did not fire",
+		"FocalLength": "4.2 mm",
+		"SubjectArea": "2328 1461 610 612",
+		"SubSecTimeOriginal": "041",
+		"SubSecTimeDigitized": "041",
+		"ColorSpace": "sRGB",
+		"SensingMethod": "One-chip color area",
+		"ExposureMode": "Auto",
+		"WhiteBalance": "Auto",
+		"FocalLengthIn35mmFormat": "29 mm",
+		"SceneCaptureType": "Standard",
+		"LensInfo": "4.15mm f/2.2",
+		"LensMake": "Apple",
+		"LensModel": "iPhone 6 back camera 4.15mm f/2.2",
+		"RunTimeFlags": "Valid",
+		"RunTimeValue": "87063017390583",
+		"RunTimeEpoch": "0",
+		"RunTimeScale": "1000000000",
+		"GPSLatitude": "99 deg 35' 13.92\" N",
+		"GPSLongitude": "999 deg 42' 22.13\" E",
+		"GPSAltitudeRef": "Above Sea Level",
+		"GPSAltitude": "13.32175689 m",
+		"GPSTimeStamp": "12:06:04.64",
+		"GPSSpeedRef": "km/h",
+		"GPSSpeed": "0",
+		"GPSImgDirectionRef": "True North",
+		"GPSImgDirection": "292.4066986",
+		"GPSDestBearingRef": "True North",
+		"GPSDestBearing": "112.4066986",
+		"GPSDateStamp": "9999:01:13",
+		"Compression": "JPEG (old-style)"
+	},
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157649687241627",
+			"title": "cooking-9999",
+			"url": "https://www.flickr.com/photos/dummy/sets/72157649687241627/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "auto",
+			"user": "https://www.flickr.com/photos/dummy/",
+			"date_create": "9999-01-13 04:23:00"
+		},
+		{
+			"tag": "qaz",
+			"user": "https://www.flickr.com/photos/dummy/",
+			"date_create": "9999-01-13 04:23:00"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "only you",
+	"tagging_permissions": "only you",
+	"safety": "safe",
+	"comments": [
+
+	]
+}
