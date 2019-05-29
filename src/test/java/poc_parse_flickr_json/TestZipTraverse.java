@@ -131,6 +131,8 @@ public class TestZipTraverse {
 											// Resource info = mapper.readValue(json, Resource.class);
 											// System.out.println(info.photoInfo);
 											PhotoInfo info = mapper.readValue(json, PhotoInfo.class);
+											if (info.albums.size() > 0)
+												info.albums.forEach(a -> {System.out.println(a.title);});
 											if (info.dateTaken == null || info.dateTaken.isEmpty())
 												System.err.println("'date_taken' not exists. " + ++dateTaken);
 											if (info.geo == null || info.geo.latitude == null)
